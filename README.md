@@ -1,6 +1,6 @@
 # Efficient fighting styles in UFC
 Aniruddha Dutta
-License: [MIT License]()
+License: [MIT License](https://github.com/Aniruddha2994/DATA-512-final/blob/main/LICENSE)
 
 ### Motivation
 UFC is world's biggest mixed martial arts event. There are a total of over 170 different martial art forms, each focusing on either grappling or striking, punches or kicks or a maixture of these integrated in one. In UFC, fighters from diverse backgrounds trained in different forms of martial arts battle for the championship in short rounds of 5 minutes. In these high intensity quick bouts, it is the fighting style and technique that determine the winner. 
