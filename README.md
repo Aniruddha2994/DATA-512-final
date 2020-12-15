@@ -1,5 +1,6 @@
 # Effects of Online Gaming on Mental Health
 Aniruddha Dutta
+
 License: [MIT License](https://github.com/Aniruddha2994/DATA-512-final/blob/main/LICENSE)
 
 ### Motivation
