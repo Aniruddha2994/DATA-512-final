@@ -32,7 +32,6 @@ The data consists of 55 columns that correspond to every question asked in the s
 - <b>Hours:</b> Total number of hours devoted to gaming in a week
 
 ### Conclusion
-### Conclusion
 
 Though majority of the gamers we have considered in this data do not exhibit severe mental health conditions, there are still clear signs of people getting affected. Some key findings from the analyses are as follows:
 
